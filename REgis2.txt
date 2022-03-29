@@ -1,0 +1,4 @@
+401--Diego Carcamo--Lps.520.0--Tipo:VIP
+301--Mel Zelaya--Lps.360.0--Tipo:NORMAL
+23--Daniel Jose--Lps.500.0--Tipo:NORMAL
+701--Jose--Lps.923.5--Tipo:VIP
